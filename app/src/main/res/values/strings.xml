@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">SunmiPrinter</string>
+    <string name="styled_welcome_message">We are <b><i>so</i></b> glad to see you.\n\n\n</string>
 </resources>
